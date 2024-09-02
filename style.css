@@ -16,11 +16,3 @@
     padding: 14px 14px;
     margin: 15px 5px 5px 0px;
 }
-.btn{
-    padding: 15px;
-    border: 2px solid green;
-}
-.btn:hover{
-background-color: cornsilk;
-transition: cubic-bezier(0.165, 0.84, 0.44, 1);
-}
