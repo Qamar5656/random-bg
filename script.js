@@ -1,7 +1,7 @@
-// function to generate random background of boxes
+// Targeting boxes using DOM
 const boxes = document.getElementsByClassName('box');
-const button = document.getElementsByClassName('btn');
 
+// function to generate random background of boxes
 function randomColor() {
     let num1 = Math.floor(Math.random() * 256);
     let num2 = Math.floor(Math.random() * 256);
